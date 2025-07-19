@@ -1,0 +1,10 @@
+# requirements.txt for PDF Chat with Llama2 and LangChain
+streamlit
+PyPDF2
+langchain
+langchain-community
+langchain-google-genai
+langchain-huggingface
+google-generativeai
+python-dotenv
+
